@@ -1,0 +1,4 @@
+{:deps {org.clojure/clojure {:mvn/version "1.12.0"}
+        com.datomic/local {:mvn/version "1.0.285"}
+        com.github.abrooks/frigit {:local/root "../frigit" #_#_:git/sha "ab4ea1fa96e5a1bba2490d4c5d15cc3d67bf653d"}
+        com.github.abrooks/clj-snakeskin-yaml {:git/sha "d3708fd93b0141cc22956cbac0532e1beed6f5aa"}}}
